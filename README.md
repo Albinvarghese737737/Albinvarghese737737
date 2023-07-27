@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Albinvarghese737737
-- 👀 I’m interested in developing autonomus projects
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+"👋 Hi, I’m Albin Varghese! I am currently pursuing M.Tech in Mechanical Systems Design at IIT Bhubaneswar. I'm passionate about software development and have a keen interest in working on beginner projects. Currently, I'm focusing on learning Python and exploring its various applications. I'm excited to collaborate on Python projects and contribute to open-source development. Let's create something amazing together! 💞️"
 - 📫albinvarghese4b@gmail.com
 
 <!---
