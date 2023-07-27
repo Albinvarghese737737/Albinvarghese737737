@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing autonomus projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ...
+- 📫albinvarghese4b@gmail.com
 
 <!---
 Albinvarghese737737/Albinvarghese737737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
